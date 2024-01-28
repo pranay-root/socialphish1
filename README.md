@@ -12,10 +12,16 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 
 ##### Usage:
 ```
-git clone https://gitlab.com/Hak9/SocialPhish.git
-cd SocialPhish
-chmod +x socialphish.sh
-./socialphish.sh
+---> sudo su
+---> apt update
+---> apt upgrade
+---> apt install git
+---> apt install php
+---> apt install python3-pip
+---> git clone https://github.com/pranay-root/socialphish1.git
+---> cd socialphish1
+---> chmod +x socialphish.sh
+---> ./socialphish.sh
 ```
 
 
