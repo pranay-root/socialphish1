@@ -201,14 +201,14 @@ fi
 
 banner() {
 
-printf "\e[1;77m    _________             .__       .__ __________.__    .__       .__      \e[0m\n"
-printf "\e[1;77m   /   _____/ ____   ____ |__|____  |  |\______   \  |__ |__| _____|  |__  \e[0m\n"
-printf "\e[1;77m   \_____  \ /  _ \_/ ___\|  \__  \ |  | |     ___/  |  \|  |/  ___/  |  \  \e[0m\n"
-printf "\e[1;77m   /        (  <_> )  \___|  |/ __ \|  |_|    |   |   Y  \  |\___ \|   Y  \  \e[0m\n"
-printf "\e[1;77m  /_______  /\____/ \___  >__(____  /____/____|   |___|  /__/____  >___|  / \e[0m\n"
-printf "\e[1;77m          \/            \/        \/                   \/        \/     \/  v1.6\e[0m\n"
+printf "\e[1;92m    ________               .__       .__ __________.__    .__       .__      \e[0m\n"
+printf "\e[1;92m   /  _____/______  ____  |__|____  |  | \______   \  |__ |__| _____|  |__  \e[0m\n"
+printf "\e[1;92m   \_____  \ \____ \/  _ \ |  \__  \ |  |  |    |  _/  |  \|  |/  ___/  |  \  \e[0m\n"
+printf "\e[1;92m   /        \  |_) )  <_> )|  |/ __ \|  |  |    |   \   Y  \  |\___ \|   Y  \  \e[0m\n"
+printf "\e[1;92m  /_______  /   __/ \____/ |__(____  /____/______  /___|  /__/____  >___|  / \e[0m\n"
+printf "\e[1;92m          \/|__|                   \/            \/     \/        \/     \/  v1.6\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @Hak9 \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @cyberblockz \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by SocialPhish ::\e[0m\n"
